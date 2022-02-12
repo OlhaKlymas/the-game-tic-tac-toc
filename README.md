@@ -7,7 +7,7 @@
 
 ### 📸 Посмотреть проект можно здесь: 
 
-<a href="https://olhaklymas.github.io/tic-tac-toc/">Посмотреть код</a>
+<a href="https://github.com/OlhaKlymas/tic-tac-toc">Посмотреть код</a>
 
 <a href="https://olhaklymas.github.io/the-game-tic-tac-toc/">Хочу играть!</a>
 
